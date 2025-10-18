@@ -3,7 +3,7 @@ To visualize and quantify spatial RNA expression in large tissue samples to supp
 
 ## Methods Summary
 - RNAscope in 3D: optimized probe penetration and signal preservation in whole-mount tissue.
-- Tissue clearing: improved optical transparency using CUBIC/CLARITY-based methods.
+- Tissue clearing: improved optical transparency using BA-SDS/ WildDISCO based methods.
 - Light Sheet Microscopy (LSFM): imaged large cleared tissues with single-cell resolution.
 - Image analysis: qualitative assessment of RNA localization patterns.
 
