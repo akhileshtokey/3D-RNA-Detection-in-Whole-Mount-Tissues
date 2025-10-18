@@ -1,0 +1,15 @@
+name: spatial-omics-starter
+channels: [conda-forge, bioconda]
+dependencies:
+  - python>=3.10
+  - scanpy
+  - anndata
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - seaborn
+  - pip
+  - pip:
+      - squidpy

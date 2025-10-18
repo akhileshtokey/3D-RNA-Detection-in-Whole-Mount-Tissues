@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this project, please cite it as below.
+title: "Spatial Omics Starter: Tissue Microenvironment Mini‑Study"
+authors:
+  - family-names: YourSurname
+    given-names: YourGiven
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-10-18
+version: "1.0.0"
